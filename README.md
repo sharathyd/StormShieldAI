@@ -58,7 +58,7 @@ For deep dives into the system architecture, feature breakdown, and developer gu
 
 ### 1. Set Up Environment
 ```bash
-git clone https://github.com/Rajesh136254/StormShieldAI.git
+git clone https://github.com/sharathyd/StormShieldAI.git
 cd StormShieldAI
 python -m venv venv
 source venv/bin/activate  # Mac/Linux: source venv/bin/activate | Windows: venv\Scripts\activate
